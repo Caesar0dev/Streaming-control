@@ -1,3 +1,4 @@
+
 # Live Game Control
 
 A live game control system with digital wallet integration using MongoDB. This application allows dealers to manage games, check dealer cards, and handle real-time wallet transactions.
