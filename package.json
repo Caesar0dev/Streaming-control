@@ -1,0 +1,29 @@
+{
+    "name": "StreamingContrl",
+    "version": "1.0.0",
+    "description": "A live game control system with digital wallet integration using MongoDB.",
+    "main": "backend/index.js",
+    "scripts": {
+      "start": "node backend/index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "live",
+      "game",
+      "control",
+      "digital",
+      "wallet",
+      "mongodb"
+    ],
+    "author": "Caesar",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mongoose": "^6.2.0",
+      "body-parser": "^1.19.0"
+    },
+    "devDependencies": {},
+    "engines": {
+      "node": ">=14.x"
+    }
+  }
